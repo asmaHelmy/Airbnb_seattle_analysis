@@ -13,3 +13,7 @@ An analysis of the Airbnb Seattle Data.
 - January is the cheapest month to visit Seattle.
 - There are no enough evidence that the prices and the number of available listings are correlated.
 - It's not necessarily that cheaper listings have lower ratings.
+
+## Medium Post of the analysis:
+
+https://medium.com/@asmaHelmy/visiting-seattle-on-a-budget-here-are-a-few-tips-e2362e7ac7fa
