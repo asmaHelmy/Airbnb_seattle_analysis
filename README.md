@@ -30,13 +30,14 @@ As not all people have the money to travel anytime they want, we tend to search 
 Medium post can be found [here](https://medium.com/@asmaHelmy/visiting-seattle-on-a-budget-here-are-a-few-tips-e2362e7ac7fa)
 
 ## Repos' Files:
+```
 .
 ├── Airbnb_seattle_data.ipynb
 ├── README.md
 └── seattle_airbnb_data
     ├── calendar.csv
     └── listings.csv
-
+```
 
 - seattle_airbnb_data: folder includes the data; 2 csv files (Listings, Calendar).
 	- calendar.csv: includes listing id and the price and availability for that day
